@@ -15,4 +15,4 @@ This project is deployed at [whatsapp-mern-a78d6.web.app](https://whatsapp-mern-
 
 
 
-### Frontend code is hosted at Firebase, and Backend code is hosted at heroku.
+### Frontend  is Deployed at Firebase, and Backend is at heroku.
