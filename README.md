@@ -15,4 +15,9 @@ This project is deployed at [whatsapp-mern-a78d6.web.app](https://whatsapp-mern-
 
 
 
-### Frontend  is Deployed at Firebase, and Backend is at heroku.
+### Frontend  is Deployed to Firebase, and Backend is to heroku.
+
+Source codes are available at:
+
+Frontend: [whatsapp-frontend](https://github.com/usamavarikkottil/whatsapp-front-end)
+Backend: [whatsapp-backend](https://github.com/usamavarikkottil/whatsapp-backend)
